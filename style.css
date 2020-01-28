@@ -13,13 +13,13 @@ text-decoration: none;
 }
 
 #article{
-  padding-left: 60px;
+  padding-left: 100px;
 }
 ol{
   text-align: center;
   border-right: 2px solid gray;
   margin:0;
-  width: 150px;
+  width: 190px;
   padding: 20px;
 }
 h1{
